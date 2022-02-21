@@ -19,9 +19,12 @@ Anaconda - Python 3.7
 ### Step 6: 
      End the program.
 ## PROGRAM:
-## DEVELOPED BY:Bairav Skandan Loha
-## REGISTER NUMBER: 21000106
-~~~
+~~~ python
+'''
+DEVELOPED BY:Bairav Skandan Loha
+REGISTER NUMBER: 21000106
+'''
+
 from shutil import copyfile
 from sys import exit
 
